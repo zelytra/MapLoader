@@ -1,0 +1,16 @@
+name: MapLoader
+version: 1.0
+author: Zelytra
+main: fr.zelytra.MapLoader.MapLoader
+api-version: 1.16
+commands: 
+  maploader:
+    aliases: ml
+    description: 
+    permission: MapLoader.start
+  
+    
+  
+
+  
+
