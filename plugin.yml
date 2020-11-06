@@ -6,8 +6,8 @@ api-version: 1.16
 commands: 
   maploader:
     aliases: ml
-    description: 
-    permission: MapLoader.start
+    description: Access to all commands
+    
   
     
   

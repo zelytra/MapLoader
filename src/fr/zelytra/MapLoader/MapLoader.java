@@ -2,11 +2,10 @@ package fr.zelytra.MapLoader;
 
 import java.util.HashMap;
 
-import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.scheduler.BukkitTask;
 
-import fr.zelytra.MapLoader.Commands.Commands;
+import fr.zelytra.MapLoader.ChunkGenerator.Commands;
 import fr.zelytra.MapLoader.Listener.OnChunkLoad;
 import fr.zelytra.MapLoader.Utils.Message;
 
